@@ -1,19 +1,20 @@
 # NLW eSports 
 
+![preview](./.github/preview.png)
+
 >Trilha Explorer
 
-![preview] 
 
 Projeto construído do evento Next Level Week da Rocketseat
 
-[Clique-aqui-para-acessar] (https://bernardofcosta.github.io/vscode/)
+[Clique aqui para acessar](https://bernardofcosta.github.io/vscode/)
 
 
 ## 🛠️ Tecnologias 
 
--HTML
--CSS
--Git e Github
+- HTML
+- CSS
+- Git e Github
 
 ## 🚀 Contato
 
